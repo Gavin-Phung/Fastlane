@@ -6,7 +6,9 @@ platform :ios do
   lane :test do
     run_tests(
       project: "CICD Learning/CICD Learning.xcodeproj",
-      scheme: "CICD Learning"
+      scheme: "CICD Learning",
+      output_types: "html",
+      output_directory: "./fastlane/test_output"
     )
   end
 
