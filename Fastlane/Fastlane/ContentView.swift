@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Fastlane
-//
-//  Created by Gavin Phung on 25/07/2026.
-//
-
 import SwiftUI
 import SwiftData
 
