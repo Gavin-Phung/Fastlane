@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		86DC3E01301507620031EC3B /* PBXContainerItemProxy */ = {
+		869A62BE30169A1200053ACB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 86DC3DE9301507600031EC3B /* Project object */;
+			containerPortal = 869A62A630169A1100053ACB /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 86DC3DF0301507600031EC3B;
-			remoteInfo = Fastlane;
+			remoteGlobalIDString = 869A62AD30169A1100053ACB;
+			remoteInfo = "CICD Learning";
 		};
-		86DC3E0B301507620031EC3B /* PBXContainerItemProxy */ = {
+		869A62C830169A1200053ACB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 86DC3DE9301507600031EC3B /* Project object */;
+			containerPortal = 869A62A630169A1100053ACB /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 86DC3DF0301507600031EC3B;
-			remoteInfo = Fastlane;
+			remoteGlobalIDString = 869A62AD30169A1100053ACB;
+			remoteInfo = "CICD Learning";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		86DC3DF1301507600031EC3B /* Fastlane.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fastlane.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		86DC3E00301507620031EC3B /* FastlaneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FastlaneTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		86DC3E0A301507620031EC3B /* FastlaneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FastlaneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		869A62AE30169A1100053ACB /* CICD Learning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CICD Learning.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		869A62BD30169A1200053ACB /* CICD LearningTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CICD LearningTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		869A62C730169A1200053ACB /* CICD LearningUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CICD LearningUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		86DC3DF3301507600031EC3B /* Fastlane */ = {
+		869A62B030169A1100053ACB /* CICD Learning */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Fastlane;
+			path = "CICD Learning";
 			sourceTree = "<group>";
 		};
-		86DC3E03301507620031EC3B /* FastlaneTests */ = {
+		869A62C030169A1200053ACB /* CICD LearningTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = FastlaneTests;
+			path = "CICD LearningTests";
 			sourceTree = "<group>";
 		};
-		86DC3E0D301507620031EC3B /* FastlaneUITests */ = {
+		869A62CA30169A1200053ACB /* CICD LearningUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = FastlaneUITests;
+			path = "CICD LearningUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		86DC3DEE301507600031EC3B /* Frameworks */ = {
+		869A62AB30169A1100053ACB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		86DC3DFD301507620031EC3B /* Frameworks */ = {
+		869A62BA30169A1200053ACB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		86DC3E07301507620031EC3B /* Frameworks */ = {
+		869A62C430169A1200053ACB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		86DC3DE8301507600031EC3B = {
+		869A62A530169A1100053ACB = {
 			isa = PBXGroup;
 			children = (
-				86DC3DF3301507600031EC3B /* Fastlane */,
-				86DC3E03301507620031EC3B /* FastlaneTests */,
-				86DC3E0D301507620031EC3B /* FastlaneUITests */,
-				86DC3DF2301507600031EC3B /* Products */,
+				869A62B030169A1100053ACB /* CICD Learning */,
+				869A62C030169A1200053ACB /* CICD LearningTests */,
+				869A62CA30169A1200053ACB /* CICD LearningUITests */,
+				869A62AF30169A1100053ACB /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		86DC3DF2301507600031EC3B /* Products */ = {
+		869A62AF30169A1100053ACB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				86DC3DF1301507600031EC3B /* Fastlane.app */,
-				86DC3E00301507620031EC3B /* FastlaneTests.xctest */,
-				86DC3E0A301507620031EC3B /* FastlaneUITests.xctest */,
+				869A62AE30169A1100053ACB /* CICD Learning.app */,
+				869A62BD30169A1200053ACB /* CICD LearningTests.xctest */,
+				869A62C730169A1200053ACB /* CICD LearningUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		86DC3DF0301507600031EC3B /* Fastlane */ = {
+		869A62AD30169A1100053ACB /* CICD Learning */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 86DC3E14301507620031EC3B /* Build configuration list for PBXNativeTarget "Fastlane" */;
+			buildConfigurationList = 869A62D130169A1200053ACB /* Build configuration list for PBXNativeTarget "CICD Learning" */;
 			buildPhases = (
-				86DC3DED301507600031EC3B /* Sources */,
-				86DC3DEE301507600031EC3B /* Frameworks */,
-				86DC3DEF301507600031EC3B /* Resources */,
+				869A62AA30169A1100053ACB /* Sources */,
+				869A62AB30169A1100053ACB /* Frameworks */,
+				869A62AC30169A1100053ACB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				86DC3DF3301507600031EC3B /* Fastlane */,
+				869A62B030169A1100053ACB /* CICD Learning */,
 			);
-			name = Fastlane;
+			name = "CICD Learning";
 			packageProductDependencies = (
 			);
-			productName = Fastlane;
-			productReference = 86DC3DF1301507600031EC3B /* Fastlane.app */;
+			productName = "CICD Learning";
+			productReference = 869A62AE30169A1100053ACB /* CICD Learning.app */;
 			productType = "com.apple.product-type.application";
 		};
-		86DC3DFF301507620031EC3B /* FastlaneTests */ = {
+		869A62BC30169A1200053ACB /* CICD LearningTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 86DC3E17301507620031EC3B /* Build configuration list for PBXNativeTarget "FastlaneTests" */;
+			buildConfigurationList = 869A62D430169A1200053ACB /* Build configuration list for PBXNativeTarget "CICD LearningTests" */;
 			buildPhases = (
-				86DC3DFC301507620031EC3B /* Sources */,
-				86DC3DFD301507620031EC3B /* Frameworks */,
-				86DC3DFE301507620031EC3B /* Resources */,
+				869A62B930169A1200053ACB /* Sources */,
+				869A62BA30169A1200053ACB /* Frameworks */,
+				869A62BB30169A1200053ACB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				86DC3E02301507620031EC3B /* PBXTargetDependency */,
+				869A62BF30169A1200053ACB /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				86DC3E03301507620031EC3B /* FastlaneTests */,
+				869A62C030169A1200053ACB /* CICD LearningTests */,
 			);
-			name = FastlaneTests;
+			name = "CICD LearningTests";
 			packageProductDependencies = (
 			);
-			productName = FastlaneTests;
-			productReference = 86DC3E00301507620031EC3B /* FastlaneTests.xctest */;
+			productName = "CICD LearningTests";
+			productReference = 869A62BD30169A1200053ACB /* CICD LearningTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		86DC3E09301507620031EC3B /* FastlaneUITests */ = {
+		869A62C630169A1200053ACB /* CICD LearningUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 86DC3E1A301507620031EC3B /* Build configuration list for PBXNativeTarget "FastlaneUITests" */;
+			buildConfigurationList = 869A62D730169A1200053ACB /* Build configuration list for PBXNativeTarget "CICD LearningUITests" */;
 			buildPhases = (
-				86DC3E06301507620031EC3B /* Sources */,
-				86DC3E07301507620031EC3B /* Frameworks */,
-				86DC3E08301507620031EC3B /* Resources */,
+				869A62C330169A1200053ACB /* Sources */,
+				869A62C430169A1200053ACB /* Frameworks */,
+				869A62C530169A1200053ACB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				86DC3E0C301507620031EC3B /* PBXTargetDependency */,
+				869A62C930169A1200053ACB /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				86DC3E0D301507620031EC3B /* FastlaneUITests */,
+				869A62CA30169A1200053ACB /* CICD LearningUITests */,
 			);
-			name = FastlaneUITests;
+			name = "CICD LearningUITests";
 			packageProductDependencies = (
 			);
-			productName = FastlaneUITests;
-			productReference = 86DC3E0A301507620031EC3B /* FastlaneUITests.xctest */;
+			productName = "CICD LearningUITests";
+			productReference = 869A62C730169A1200053ACB /* CICD LearningUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		86DC3DE9301507600031EC3B /* Project object */ = {
+		869A62A630169A1100053ACB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2660;
 				LastUpgradeCheck = 2660;
 				TargetAttributes = {
-					86DC3DF0301507600031EC3B = {
+					869A62AD30169A1100053ACB = {
 						CreatedOnToolsVersion = 26.6;
 					};
-					86DC3DFF301507620031EC3B = {
+					869A62BC30169A1200053ACB = {
 						CreatedOnToolsVersion = 26.6;
-						TestTargetID = 86DC3DF0301507600031EC3B;
+						TestTargetID = 869A62AD30169A1100053ACB;
 					};
-					86DC3E09301507620031EC3B = {
+					869A62C630169A1200053ACB = {
 						CreatedOnToolsVersion = 26.6;
-						TestTargetID = 86DC3DF0301507600031EC3B;
+						TestTargetID = 869A62AD30169A1100053ACB;
 					};
 				};
 			};
-			buildConfigurationList = 86DC3DEC301507600031EC3B /* Build configuration list for PBXProject "Fastlane" */;
+			buildConfigurationList = 869A62A930169A1100053ACB /* Build configuration list for PBXProject "CICD Learning" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 86DC3DE8301507600031EC3B;
+			mainGroup = 869A62A530169A1100053ACB;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 86DC3DF2301507600031EC3B /* Products */;
+			productRefGroup = 869A62AF30169A1100053ACB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				86DC3DF0301507600031EC3B /* Fastlane */,
-				86DC3DFF301507620031EC3B /* FastlaneTests */,
-				86DC3E09301507620031EC3B /* FastlaneUITests */,
+				869A62AD30169A1100053ACB /* CICD Learning */,
+				869A62BC30169A1200053ACB /* CICD LearningTests */,
+				869A62C630169A1200053ACB /* CICD LearningUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		86DC3DEF301507600031EC3B /* Resources */ = {
+		869A62AC30169A1100053ACB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		86DC3DFE301507620031EC3B /* Resources */ = {
+		869A62BB30169A1200053ACB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		86DC3E08301507620031EC3B /* Resources */ = {
+		869A62C530169A1200053ACB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		86DC3DED301507600031EC3B /* Sources */ = {
+		869A62AA30169A1100053ACB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		86DC3DFC301507620031EC3B /* Sources */ = {
+		869A62B930169A1200053ACB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		86DC3E06301507620031EC3B /* Sources */ = {
+		869A62C330169A1200053ACB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		86DC3E02301507620031EC3B /* PBXTargetDependency */ = {
+		869A62BF30169A1200053ACB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 86DC3DF0301507600031EC3B /* Fastlane */;
-			targetProxy = 86DC3E01301507620031EC3B /* PBXContainerItemProxy */;
+			target = 869A62AD30169A1100053ACB /* CICD Learning */;
+			targetProxy = 869A62BE30169A1200053ACB /* PBXContainerItemProxy */;
 		};
-		86DC3E0C301507620031EC3B /* PBXTargetDependency */ = {
+		869A62C930169A1200053ACB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 86DC3DF0301507600031EC3B /* Fastlane */;
-			targetProxy = 86DC3E0B301507620031EC3B /* PBXContainerItemProxy */;
+			target = 869A62AD30169A1100053ACB /* CICD Learning */;
+			targetProxy = 869A62C830169A1200053ACB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		86DC3E12301507620031EC3B /* Debug */ = {
+		869A62CF30169A1200053ACB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -332,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		86DC3E13301507620031EC3B /* Release */ = {
+		869A62D030169A1200053ACB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -388,7 +388,7 @@
 			};
 			name = Release;
 		};
-		86DC3E15301507620031EC3B /* Debug */ = {
+		869A62D230169A1200053ACB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -407,7 +407,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Gawing.Fastlane;
+				PRODUCT_BUNDLE_IDENTIFIER = "Gawing.CICD-Learning";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -419,7 +419,7 @@
 			};
 			name = Debug;
 		};
-		86DC3E16301507620031EC3B /* Release */ = {
+		869A62D330169A1200053ACB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -438,7 +438,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Gawing.Fastlane;
+				PRODUCT_BUNDLE_IDENTIFIER = "Gawing.CICD-Learning";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -450,7 +450,7 @@
 			};
 			name = Release;
 		};
-		86DC3E18301507620031EC3B /* Debug */ = {
+		869A62D530169A1200053ACB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -459,7 +459,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Gawing.FastlaneTests;
+				PRODUCT_BUNDLE_IDENTIFIER = "Gawing.CICD-LearningTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -467,11 +467,11 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Fastlane.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Fastlane";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CICD Learning.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CICD Learning";
 			};
 			name = Debug;
 		};
-		86DC3E19301507620031EC3B /* Release */ = {
+		869A62D630169A1200053ACB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -480,7 +480,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Gawing.FastlaneTests;
+				PRODUCT_BUNDLE_IDENTIFIER = "Gawing.CICD-LearningTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -488,18 +488,18 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Fastlane.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Fastlane";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CICD Learning.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CICD Learning";
 			};
 			name = Release;
 		};
-		86DC3E1B301507620031EC3B /* Debug */ = {
+		869A62D830169A1200053ACB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Gawing.FastlaneUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = "Gawing.CICD-LearningUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -507,18 +507,18 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Fastlane;
+				TEST_TARGET_NAME = "CICD Learning";
 			};
 			name = Debug;
 		};
-		86DC3E1C301507620031EC3B /* Release */ = {
+		869A62D930169A1200053ACB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Gawing.FastlaneUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = "Gawing.CICD-LearningUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -526,50 +526,50 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Fastlane;
+				TEST_TARGET_NAME = "CICD Learning";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		86DC3DEC301507600031EC3B /* Build configuration list for PBXProject "Fastlane" */ = {
+		869A62A930169A1100053ACB /* Build configuration list for PBXProject "CICD Learning" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				86DC3E12301507620031EC3B /* Debug */,
-				86DC3E13301507620031EC3B /* Release */,
+				869A62CF30169A1200053ACB /* Debug */,
+				869A62D030169A1200053ACB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		86DC3E14301507620031EC3B /* Build configuration list for PBXNativeTarget "Fastlane" */ = {
+		869A62D130169A1200053ACB /* Build configuration list for PBXNativeTarget "CICD Learning" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				86DC3E15301507620031EC3B /* Debug */,
-				86DC3E16301507620031EC3B /* Release */,
+				869A62D230169A1200053ACB /* Debug */,
+				869A62D330169A1200053ACB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		86DC3E17301507620031EC3B /* Build configuration list for PBXNativeTarget "FastlaneTests" */ = {
+		869A62D430169A1200053ACB /* Build configuration list for PBXNativeTarget "CICD LearningTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				86DC3E18301507620031EC3B /* Debug */,
-				86DC3E19301507620031EC3B /* Release */,
+				869A62D530169A1200053ACB /* Debug */,
+				869A62D630169A1200053ACB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		86DC3E1A301507620031EC3B /* Build configuration list for PBXNativeTarget "FastlaneUITests" */ = {
+		869A62D730169A1200053ACB /* Build configuration list for PBXNativeTarget "CICD LearningUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				86DC3E1B301507620031EC3B /* Debug */,
-				86DC3E1C301507620031EC3B /* Release */,
+				869A62D830169A1200053ACB /* Debug */,
+				869A62D930169A1200053ACB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 86DC3DE9301507600031EC3B /* Project object */;
+	rootObject = 869A62A630169A1100053ACB /* Project object */;
 }

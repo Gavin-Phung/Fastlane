@@ -1,13 +1,13 @@
 //
-//  FastlaneUITestsLaunchTests.swift
-//  FastlaneUITests
+//  CICD_LearningUITestsLaunchTests.swift
+//  CICD LearningUITests
 //
-//  Created by Gavin Phung on 25/07/2026.
+//  Created by Gavin Phung on 26/07/2026.
 //
 
 import XCTest
 
-final class FastlaneUITestsLaunchTests: XCTestCase {
+final class CICD_LearningUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

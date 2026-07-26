@@ -1,0 +1,5 @@
+/fastlane/test_output
+fastlane/.DS_Store
+CICD Learning/.DS_Store
+fastlane/README.md
+fastlane/report.xml

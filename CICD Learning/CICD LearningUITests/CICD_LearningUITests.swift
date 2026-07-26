@@ -1,13 +1,13 @@
 //
-//  FastlaneUITests.swift
-//  FastlaneUITests
+//  CICD_LearningUITests.swift
+//  CICD LearningUITests
 //
-//  Created by Gavin Phung on 25/07/2026.
+//  Created by Gavin Phung on 26/07/2026.
 //
 
 import XCTest
 
-final class FastlaneUITests: XCTestCase {
+final class CICD_LearningUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
