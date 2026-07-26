@@ -1,8 +1,15 @@
+//
+//  CICD_LearningApp.swift
+//  CICD Learning
+//
+//  Created by Gavin Phung on 26/07/2026.
+//
+
 import SwiftUI
 import SwiftData
 
 @main
-struct FastlaneApp: App {
+struct CICD_LearningApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             Item.self,
